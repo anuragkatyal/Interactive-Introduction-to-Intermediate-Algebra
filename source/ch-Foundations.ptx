@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-Foundations" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Foundations</title>
+
+  <!-- include sections -->
+  <xi:include href="sec-Foundations/sec-An-Introduction-To-Integers.ptx" />
+  <xi:include href="sec-Foundations/sec-Fractions-And-Order-of-Operations.ptx" />
+  <xi:include href="sec-Foundations/sec-Adding-Fractions.ptx" />
+  <xi:include href="sec-Foundations/sec-Subtracting-Fractions.ptx" />
+  <xi:include href="sec-Foundations/sec-Order-of-Operations.ptx" />
+</chapter>

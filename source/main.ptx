@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<pretext xml:lang="en-US" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <!-- we first include a file which contains the docinfo element: -->
+  <xi:include href="./docinfo.ptx" />
+
+  <book xml:id="book-title">
+    <title>An Interactive Introduction to Intermediate Algebra</title>
+    <subtitle>An example to get you started</subtitle>
+
+    <!-- Include frontmatter -->
+    <!-- <xi:include href="./frontmatter.ptx" /> -->
+
+    <!-- Include chapters -->
+    <xi:include href="./ch-Foundations.ptx" />
+    <xi:include href="./ch-Linear-Functions.ptx" />
+    <xi:include href="./ch-Polynomial-Functions.ptx" />
+    <xi:include href="./ch-Rational-Functions.ptx" />
+    <xi:include href="./ch-Radical-Functions.ptx" />
+
+
+    <!-- Include backmatter -->
+    <!-- <xi:include href="./backmatter.ptx" /> -->
+
+  </book>
+</pretext>
