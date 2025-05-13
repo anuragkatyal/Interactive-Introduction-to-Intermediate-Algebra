@@ -25,7 +25,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.3",
   "title": "Adding Fractions",
-  "body": " Adding Fractions   "
+  "body": " Adding Fractions    "
 },
 {
   "id": "sec-Subtracting-Fractions",
