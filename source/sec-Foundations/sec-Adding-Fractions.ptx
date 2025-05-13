@@ -4,8 +4,9 @@
   <title>Adding Fractions</title>
 
 <interactive label="adding-fractions" platform="doenetml" width="100%" aspect="2:8">
+<!-- <interactive label="adding-fractions" platform="doenetml" width="100%"> -->
 <slate surface="doenetml">
-<xi:include parse="text" href="source/doenet/doenet-Adding-Fractions.doenetml"/> 
+<xi:include parse="text" href="doenet/doenet-Adding-Fractions.doenetml"/> 
 </slate>
 </interactive>
 
