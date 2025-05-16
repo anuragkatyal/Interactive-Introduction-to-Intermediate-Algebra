@@ -1,14 +1,32 @@
+
+
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec-Adding-Fractions" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Adding Fractions</title>
 
-<!-- <interactive label="adding-fractions" platform="doenetml" width="100%" aspect="2:8"> -->
+
+<title>Adding Fractions</title>
+
+
+
+
+<!-- <p>
 <interactive label="adding-fractions" platform="doenetml" width="100%">
 <slate surface="doenetml">
 <xi:include parse="text" href="doenet/doenet-Adding-Fractions.doenetml"/> 
 </slate>
-</interactive>
+</interactive> <mdash/>>
+</p> -->
 
+<p>
+With all three variants, one can observe that trig sub will likely be the tool of choice whenever the integrand involves quadratics inside of square roots. The objective is to eliminate the radical in the integrand. We can do this with our old friends, the Pythagorean Identities.\\ \\
+We can start with $\sin ^{2}(x)+undefineds ^{2}(x)=1$\\ \\
+If we divide all terms by <m>\sin ^{\{2\}(x)}</m>, we get <m>\frac{\sin ^{\{2\}(x)}}{\{\sin ^{\{2\}(x)}\} + \frac{\cos ^{\{2\}(x)}}{\{\sin ^{\{2\}(x)}\} = \frac{1}{\sin ^{\{2\}(x)}}}} Rightarrow 1 + \cot ^{\{2\}(x) = \csc ^{\{2\}(x)}}</m>.\\ \\
+If we divide all terms by <m>\cos ^{\{2\}(x)}</m>, we get <m>\frac{\sin ^{\{2\}(x)}}{\{\cos ^{\{2\}(x)}\} + \frac{\cos ^{\{2\}(x)}}{\{\cos ^{\{2\}(x)}\} = \frac{1}{\cos ^{\{2\}(x)}}}} Long \to \tan ^{\{2\}(x) + 1 = \sec ^{\{2\}(x)}}</m>.\\ \\
+For instance, if <m>x = a \sin (\theta)</m>,
 
-</section>
+<men>
+\sqrt{\{a^{\{2\} - x^{2}}\} = \sqrt{\{a^{\{2\} - (a \sin (\theta))^{2}}\} = \sqrt{\{a^{\{2\} - a^{2}} \sin ^{\{2\}(\theta)}\} = \sqrt{\{a^{\{2\}left(1 - \sin ^{\{2\}(\theta)right})}\} = \sqrt{\{a^{2} \cos ^{\{2\}(\theta)}\} = a}}}}} \cos (\theta)
+</men>
+No more radicals :)\\
+</p>
